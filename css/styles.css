@@ -1,0 +1,207 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Ubuntu', sans-serif;*/
+
+
+
+
+.gradient {
+  background: linear-gradient(to right, #2B32B2, #1488CC);
+}
+
+
+.navbar-brand {
+  font-family: 'Pacifico', cursive;
+}
+
+.nav-item {
+  padding: 0 25px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Pacifico';
+  color: white;
+}
+
+.head-pad {
+  padding: 0 0 10px 65px;
+  color: white;
+}
+
+.banner_para {
+  font-size: 25px;
+}
+
+
+.shake-vertical {
+  -webkit-animation: shake-vertical 4s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+  animation: shake-vertical 4s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+}
+
+
+/* .line {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-color: rgba(24, 188, 222, 1); */
+
+.banner_icon {
+  height: 60px;
+  width: 45px;
+  position: relative;
+
+}
+
+.banner_icon_1 {
+  top: -530px;
+  right: -145px;
+}
+
+.banner_icon_2 {
+  top: -568px;
+  right: -278px;
+}
+
+.banner_icon_3 {
+  top: -325px;
+  left: 98px;
+}
+
+.banner_icon_4 {
+  bottom: 328px;
+  left: 228px;
+
+}
+
+.shake-vertical {
+  -webkit-animation: shake-vertical 5s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+  animation: shake-vertical 5s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+
+}
+
+
+.row_pad {
+  margin: 100px;
+}
+
+.features_img {
+  height: auto;
+  width: auto;
+  margin-bottom: 20px;
+
+}
+
+.choose_head {
+  color: #160f30;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  margin-top: 50px;
+
+}
+
+.choose {
+  color: #202040;
+  text-align: center;
+  margin: 10px;
+}
+
+#testimonials {
+  padding: 70px 0;
+  text-align: center;
+  color: #fff;
+  background: linear-gradient(90deg, rgba(9, 94, 121, 1) 0%, rgba(51, 138, 176, 1) 47%, rgba(27, 181, 213, 1) 100%);
+}
+
+.testimonial-text {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  margin: 30px 120px;
+  font-size: 2.3rem;
+  line-height: 3rem;
+}
+
+.testimonial_image {
+  height: 100px;
+  width: 100px;
+}
+
+.testimonial-image {
+  height: 140px;
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+
+}
+
+
+
+#pricing {
+  margin: 70px 50px;
+}
+
+.card_heading {
+  color: #160f30;
+}
+
+.pro_color {
+  background: linear-gradient(180deg, rgba(9, 47, 121, 1) 0%, rgba(51, 106, 176, 1) 47%, rgba(27, 181, 213, 1) 100%);
+}
+
+.li_color {
+  color: #fff;
+}
+
+#talk {
+  padding-top: 80px;
+  background: linear-gradient(90deg, rgba(9, 94, 121, 1) 0%, rgba(51, 138, 176, 1) 47%, rgba(27, 181, 213, 1) 100%);
+}
+
+#footer {
+  text-align: center;
+  padding: 3%
+}
+
+.icon-space {
+  color: #87dfd6;
+  margin: 1%;
+
+}
+
+.icon-space:hover {
+  color: #111d5e;
+}
+
+#Portfolio {
+  padding: 40px 70px 100px 70px;
+  background: linear-gradient(90deg, rgba(9, 94, 121, 1) 0%, rgba(51, 138, 176, 1) 47%, rgba(27, 181, 213, 1) 100%);
+}
+
+.port {
+  text-align: center;
+  font-size: 45px;
+  padding: 50px 0;
+}
+
+#best-service {
+  margin: 80px 80px;
+
+  text-align: center;
+}
+
+.best {
+  height: auto;
+  width: auto;
+}
+
+.pro_btn {
+  background-color: #fff;
+  border-color: #fff;
+  color: #000;
+}
